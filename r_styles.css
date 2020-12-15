@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+}
+
+#home { background-image: url("media/background.jpg");
+        background-size:cover;
+
+}
+
+#more {position: absolute;
+      margin-left: 500px
+}
+
+
+#audios { background-image: url("media/background.jpg");
+        background-size:cover;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
